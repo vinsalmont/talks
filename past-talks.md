@@ -1,4 +1,8 @@
 # Palestras anteriores
+### 30º CocoaTalks @ Concrete
+- [Como utilizar Redux em suas aplicações com ReSwift](https://www.slideshare.net/VinciusSalmont/30-cocoaheads-bh-reswift
+https://github.com/vinsalmont/ReSwift-example), por Vinícius Salmont
+- [Testes instrumentados e Introdução ao KIF](https://speakerdeck.com/joaopedrok/testes-instrumentados-e-introducao-ao-kif), por João Pedro
 
 ### 29º CocoaTalks @ Zup
 - [Sorcery with Sourcery](https://github.com/marciliojrs/sorcery-with-sourcery), por Marcílio Júnior
